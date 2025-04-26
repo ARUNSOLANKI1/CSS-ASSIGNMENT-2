@@ -1,0 +1,238 @@
+body{
+    border: 8px solid greenyellow;
+    margin: 0;
+    background-image: url("https://images.unsplash.com/photo-1745066114191-004e89b8aade?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlc3RhdXJhbnQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px;
+  }
+  
+  #heading-1{
+    border: 7px solid red;
+    border-radius: 35px;
+    height: 120px;
+    width: 375px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+    background-color: paleturquoise;
+    color: black;
+    padding-left: 23px;
+    text-decoration: underline;
+  }
+  
+  .h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  #heading-2{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: xx-large;
+    border: 7px solid red;
+    border-radius: 35px;
+    height: 80px;
+    width: 480px;
+       margin-left: -20px;
+    margin-top: 10px;
+    padding-left: 50px;
+    background-color: paleturquoise;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: underline;
+  }
+  
+  #heading-3{
+      font-weight: bold;
+      font-style: italic;
+      font-size: x-large;
+      height: 150px;
+      width: 400px;
+      border: 7px solid red;
+      border-radius: 35px;
+      background-color: paleturquoise;
+      color: solid black;
+      text-decoration: underline;
+  }
+  
+  .h3{
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+  }
+  
+  #excoffer{
+    display: flex;
+  }
+  
+  #offer{
+    height: 430px;
+    width: 430px;
+    border: 7px solid goldenrod;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 200px;
+  }
+  
+  .p1{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: italic;
+    margin-top: 100px;
+    margin-left: 110px;
+    align-items: center;
+  }
+  
+  .p2{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 30px;
+    align-items: center;
+  }
+  
+  .p3{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 100px;
+    margin-top: 40px;
+    align-items:first baseline;
+  }
+  
+  #regoffer{
+    height: 770px;
+    width: 500px;
+    border: 7px dashed palevioletred;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #regh1{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: red;
+  }
+  
+  #reg{
+    width: 500px;
+  }
+  
+  .form-details{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+    color: red;
+  }
+  
+  .details {
+    display: flex;
+    margin-left: 160px;
+    align-items: center;
+  }
+  
+  .date{
+    display: flex;
+    margin-left: 170px;
+    width: 160px;
+    align-items: center;
+  }
+  
+  .check {
+    margin-left: 240px;
+  }
+  
+  #click {
+    margin-left: 208px;
+  }
+  
+  #reset {
+    margin-left: 227px;
+  }
+  
+  #menu{
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+    text-transform: uppercase;
+    height: 100px;
+    width: 500px;
+    border: 7px solid red;
+    border-radius: 35px;
+    background-color: azure;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 490px;
+    margin-top: 30px;
+    text-decoration: underline;
+  }
+  
+  .menu1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .box1{
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    background-color: aquamarine;
+    width: 25%;
+  }
+  
+  .food{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 100px;
+  }
+  
+  li {
+    margin-left: 100px;
+    font-size: larger;
+  }
+  
+  .menu2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .box2{
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    background-color: antiquewhite;
+    width: 25%;
+  }
+ .h4{
+    text-decoration: crimson;
+ }
